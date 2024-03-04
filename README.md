@@ -14,10 +14,10 @@ This is the 2nd internship task given by The Sparks Foundation
 ![team](https://github.com/Soumya2196/Aurum_Foundation/assets/91028773/a9a9697e-634a-4c46-80ea-f998a8998ac9)
 # Donation section
 ![donate](https://github.com/Soumya2196/Aurum_Foundation/assets/91028773/4a79c5d1-8480-4e74-83eb-b39a363890a3)
-# Donation Page(Razorpay)
+# Donation Portal(Razorpay)
 ![razorpay](https://github.com/Soumya2196/Aurum_Foundation/assets/91028773/3a3778a7-3e0d-492d-a686-0e65fb3c42e6)
 # Feedback section
 ![feedback](https://github.com/Soumya2196/Aurum_Foundation/assets/91028773/b5148a09-cbbc-4eb9-8b40-7fcd604521ae)
 
 # In mobile view
-![screencapture-127-0-0-1-5501-index-html-2024-03-04-20_49_21](https://github.com/Soumya2196/Aurum_Foundation/assets/91028773/cfa2aa6a-d78d-4812-aeb3-536cd4f80718)
+![responsive](https://github.com/Soumya2196/Aurum_Foundation/assets/91028773/c93cfb88-1538-4b95-9c4a-9d23525d36e9)
